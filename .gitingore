@@ -1,0 +1,5 @@
+#
+.gitingore
+*.txt
+.idea/
+Day4/
